@@ -1,0 +1,10 @@
+---
+services:
+    buck2-tester:
+        build:
+            context: .
+            dockerfile: ./Dockerfile
+        volumes:
+            - /Users/marwhal/test-buck2-examples/buck2:/code
+        working_dir: /code
+        platform: linux/arm64/v8

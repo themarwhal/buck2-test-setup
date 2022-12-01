@@ -1,0 +1,8 @@
+{
+    "buck.projectConfig": {
+        "projectPath": "/Users/marwhal/test-buck2-examples/buck2/shim",
+        "flavor": [],
+        "target": "",
+        "platform": "linux-x86_64"
+    }
+}
